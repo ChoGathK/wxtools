@@ -1,0 +1,21 @@
+{
+	"name": "@acheetahk/wxtools",
+	"version": "1.0.0",
+	"description": "微信开发工具",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"build": "tsc",
+		"lint": "tslint -p tsconfig.json -c tslint.json",
+		"push": "bash template/git.push.sh"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/A-CheetahK/wx-tools.git"
+	},
+	"author": "chogath",
+	"license": "ISC",
+	"dependencies": {
+		"tnwx": "^2.5.0"
+	}
+}
