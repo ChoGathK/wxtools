@@ -2997,28 +2997,28 @@
         "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/accesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/apiconfigkit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts",
         "../node_modules/@tnwx/cache/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstokenapi.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts",
@@ -3031,415 +3031,415 @@
         "../node_modules/@tnwx/accesstoken/dist/wxcp/qyapiconfigkit.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/opencp/opencorpaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/opencp/opencpaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/openmp/openauthorizeraccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/openmp/opencomponentaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/wxcp/qyaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/accesstoken.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts"
       ],
       "../node_modules/@tnwx/accesstoken/dist/wxcp/qyapiconfigkit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/apiconfig.d.ts",
         "../node_modules/@tnwx/cache/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/cache/dist/defaultcache.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/cache/dist/icache.d.ts"
       ],
       "../node_modules/@tnwx/cache/dist/icache.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/cache/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/cache/dist/defaultcache.d.ts",
         "../node_modules/@tnwx/cache/dist/icache.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/api/jsticketapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/jsticket.d.ts",
         "../node_modules/@tnwx/commons/dist/enums.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/api/qyjsticketapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/jsticket.d.ts",
         "../node_modules/@tnwx/commons/dist/enums.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/api/uniformmessageapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/cryptokit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/jsticket.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/menu/menu.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/incardpasscheckevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/incardpayorderevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/incardskuremindevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inmerchantorderevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inupdatemembercardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inusercardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inuserconsumecardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inusergetcardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inusergiftingcardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/card/inuserpayfromcardevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inbatchjobresultevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/incustomevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inenteragentevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inexternalcontactevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/infollowevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inlocationevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inmassevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inmenuevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/scancodeinfo.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/innotdefinedevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inpoichecknotifyevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inqrcodeevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inshakearoundusershakeevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/intaskevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/intemplatemsgevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inupdatepartyevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inupdatetagevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inupdateuserevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inverifyfailevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inverifysuccessevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inwifievent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/eventinmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/event/scancodeinfo.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inauthevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inauthmpevent.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inbatchjobresult.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/incomponentverifyticket.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inexternalcontact.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inimagemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inlinkmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inlocationmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/innotdefinedmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inregistercorp.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inshortvideomsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/inspeechrecognitionresults.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/invoicemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/insuiteticket.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/intextmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/invideomsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/in/invoicemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/article.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/menumsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/news.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outcustommsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/transinfo.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outimagemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outmusicmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outnewsmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/news.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outtextmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outvideomsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/outvoicemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/inmsg.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outmsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/msg/out/transinfo.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/subscribe/subscribemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/entity/template/templatedata.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/enums.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/api/jsticketapi.d.ts",
         "../node_modules/@tnwx/commons/dist/api/qyjsticketapi.d.ts",
         "../node_modules/@tnwx/commons/dist/api/uniformmessageapi.d.ts",
@@ -3515,13 +3515,13 @@
         "../node_modules/@tnwx/commons/dist/msgadapter.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/inmsgparser.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/basemsg.d.ts"
       ],
       "../node_modules/@tnwx/commons/dist/msgadapter.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inbatchjobresultevent.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inenteragentevent.d.ts",
         "../node_modules/@tnwx/commons/dist/entity/msg/in/event/inexternalcontactevent.d.ts",
@@ -3556,36 +3556,36 @@
         "../node_modules/@tnwx/commons/dist/entity/msg/out/outtextmsg.d.ts"
       ],
       "../node_modules/@tnwx/kits/dist/axioshttpkit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/kits/dist/httpkit.d.ts"
       ],
       "../node_modules/@tnwx/kits/dist/httpkit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/kits/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/kits/dist/axioshttpkit.d.ts",
         "../node_modules/@tnwx/kits/dist/httpkit.d.ts",
         "../node_modules/@tnwx/kits/dist/kits.d.ts"
       ],
       "../node_modules/@tnwx/kits/dist/kits.d.ts": [
-        "../../../../../node_modules/@types/node/crypto.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/crypto.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/imgapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/miniprogram/dist/imgapi.d.ts",
         "../node_modules/@tnwx/miniprogram/dist/minicustomermsgapi.d.ts",
         "../node_modules/@tnwx/miniprogram/dist/minipluginmanagerapi.d.ts",
@@ -3595,127 +3595,127 @@
         "../node_modules/@tnwx/miniprogram/dist/ocrapi.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/minicustomermsgapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/minipluginmanagerapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/miniprogramapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/minisubscribemsgapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/nearbypoiapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/miniprogram/dist/ocrapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/opencp/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/opencp/dist/opencpapi.d.ts",
         "../node_modules/@tnwx/opencp/dist/opencpoauthapi.d.ts",
         "../node_modules/@tnwx/opencp/dist/openqrcode.d.ts"
       ],
       "../node_modules/@tnwx/opencp/dist/opencpapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/opencp/dist/opencpoauthapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/opencp/dist/openqrcode.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/openmp/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/openmp/dist/openmpapi.d.ts",
         "../node_modules/@tnwx/openmp/dist/openmpsnsaccesstokenapi.d.ts"
       ],
       "../node_modules/@tnwx/openmp/dist/openmpapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/openmp/dist/openmpsnsaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qyfilemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qyimagemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qymarkdownmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qytextmsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qyminiprogramnoticemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qympnewsmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qynewsmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qytaskcardmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qytextcardmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qytextmsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qyvideomsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/entity/qyvoicemsg.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qybasemsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qyfilemsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qyimagemsg.d.ts",
@@ -3744,49 +3744,49 @@
         "../node_modules/@tnwx/wxcp/dist/qywxapi.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyagentapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyappchatapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qydepartmentapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyexcontact.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qygrouprobotapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qyimagemsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qymarkdownmsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qynewsmsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qytextmsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qymediaapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyoaapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyoauthapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qysendmsgapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qyfilemsg.d.ts",
         "../node_modules/@tnwx/wxcp/dist/entity/qyimagemsg.d.ts",
@@ -3801,150 +3801,150 @@
         "../node_modules/@tnwx/wxcp/dist/entity/qyvoicemsg.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qysyncapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qytagapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qyuserapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qywechat.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxcp/dist/qywxapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/autoreplyinfoapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/callbackapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/cardapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/customserviceapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/datacubeapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/mediaapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/membercardapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/menuapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/messageapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/poiapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/qrcodeapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/semanticapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearoundapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearounddeviceapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearoundpageapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearoundstatisticsapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearounddeviceapi.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shakearound/shakearounduserapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/shorturlapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/snsaccesstokenapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/subscribemsgapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/tagapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/templateapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/api/userapi.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxmp/dist/api/autoreplyinfoapi.d.ts",
         "../node_modules/@tnwx/wxmp/dist/api/callbackapi.d.ts",
         "../node_modules/@tnwx/wxmp/dist/api/cardapi.d.ts",
@@ -3971,14 +3971,14 @@
         "../node_modules/@tnwx/wxmp/dist/wechat.d.ts"
       ],
       "../node_modules/@tnwx/wxmp/dist/wechat.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxpay/dist/paykit.d.ts",
         "../node_modules/@tnwx/wxpay/dist/requestmethod.d.ts",
         "../node_modules/@tnwx/wxpay/dist/tradetype.d.ts",
@@ -3989,46 +3989,46 @@
         "../node_modules/@tnwx/wxpay/dist/wxpayapiconifgkit.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/paykit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/wxpay/dist/requestmethod.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/requestmethod.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/tradetype.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/wxapitype.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/wxdomain.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/wxpay.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/index.d.ts",
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/index.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/kits/dist/index.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/wxpayapiconfig.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../node_modules/@tnwx/wxpay/dist/wxpayapiconifgkit.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/cache/dist/index.d.ts",
         "../node_modules/@tnwx/wxpay/dist/wxpayapiconfig.d.ts"
       ],
       "../node_modules/tnwx/dist/index.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts",
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts",
         "../node_modules/@tnwx/accesstoken/dist/index.d.ts",
         "../node_modules/@tnwx/cache/dist/index.d.ts",
         "../node_modules/@tnwx/commons/dist/index.d.ts",
@@ -4041,112 +4041,112 @@
         "../node_modules/@tnwx/wxpay/dist/index.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es2020.bigint.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ],
       "../../../../../../usr/local/lib/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
-        "../../../../../node_modules/@types/node/ts3.2/util.d.ts",
-        "../../../../../node_modules/@types/node/util.d.ts"
+        "../../../../node_modules/@types/node/ts3.2/util.d.ts",
+        "../../../../node_modules/@types/node/util.d.ts"
       ]
     },
     "semanticDiagnosticsPerFile": [
